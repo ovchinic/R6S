@@ -1,6 +1,6 @@
 # R6S Recoil Control Script
 
-A Logitech G Hub Lua script for Rainbow Six Siege that automates recoil compensation and supports multiple weapon profiles. Designed for consistent accuracy with customizable settings.
+A Logitech G Hub Lua script for Rainbow Six Siege that automates recoil compensation and supports multiple weapon profiles.
 
 ## Features
 - Three recoil profiles with adjustable strength/delay
